@@ -1,0 +1,10 @@
+{
+  "owner": {
+    "username": "dtchmnt=is-a-dev",
+    "email": "mavroforos.nikolaos@gmail.com"
+  },
+  "records": {
+    "CNAME": "dtchmnt-is-a-dev-docs.pages.dev"
+  },
+  "proxied": true
+}
